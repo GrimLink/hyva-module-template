@@ -6,7 +6,10 @@
   "readme": "README.md",
   "keywords": [
     "magento2",
-    "magento2-module"
+    "magento2-module",
+    "hyva",
+    "hyva-module",
+    "share-api"
   ],
   "authors": [],
   "require": {},
