@@ -8,8 +8,7 @@
     "magento2",
     "magento2-module",
     "hyva",
-    "hyva-module",
-    "share-api"
+    "hyva-module"
   ],
   "authors": [],
   "require": {},
