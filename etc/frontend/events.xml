@@ -5,7 +5,7 @@
 >
     <event name="hyva_config_generate_before">
         <observer
-            name="<VENOR>_<MODULE>"
+            name="<VENOR>_<MODULE>_Register_Hyva_Config"
             instance="<VENOR>\<MODULE>\Observer\RegisterModuleForHyvaConfig"
         />
     </event>
