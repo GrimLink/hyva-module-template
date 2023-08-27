@@ -1,5 +1,5 @@
 {
-  "name": "<VENDOR>/<MODULE_PKG>",
+  "name": "<VENDOR_PKG>/<MODULE_PKG>",
   "description": "",
   "license": "MIT",
   "type": "magento2-module",

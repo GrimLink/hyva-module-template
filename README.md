@@ -7,8 +7,9 @@ To use this template click on **Use this template**,
 and then replace the following values with your own;
 
 - `<VENDOR>` (example: Hyva)
+- `<VENDOR_PKG>` (example: hyva) need to be lowercase version of your VENDOR name
 - `<MODULE>` (example: IconPack)
-- `<MODULE_PKG>` (example: icon-pack)
+- `<MODULE_PKG>` (example: icon-pack) need to be lowercase version of your MODULE name
 
 This will set the correct namespace and module names in all files that use this.
 
